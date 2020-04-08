@@ -5,3 +5,5 @@ Freddy Vega tiene 33 años y nacio en Colombia.
 Viajo por el mundo.
 
 Hoy hablaremos de su historia.
+
+Su cargo es CEO de Platzi.
